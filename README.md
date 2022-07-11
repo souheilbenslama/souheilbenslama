@@ -1,7 +1,8 @@
-### Hi there, I'm Souheil Ben Slama  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="5px">
+### Hi there, I'm Souheil Ben Slama 👋 
 
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;Data%20Science%20Enthusiast;DeVops%20Enthusiast;Always%20Learning&center=false&width=500&height=50"></a>
 
-i'm souheil benslama and i am a software engineering student at INSAT . i have always been passionate about new technologies and i have a lot of intreset in the AI and DevOps field . 
+## I am a Software Engineering student at INSAT. I have always been passionate about new technologies and always open to new opportunities. 
 
 
 
@@ -22,3 +23,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Languages and Tools:
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+ 
+<img src="https://github.com/wadhah101/wadhah101/blob/master/icons/java.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+ 
+
