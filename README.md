@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning kubernetes and Go language 
 
-## Language and Tools 
+ 
 <!--
 **souheilbenslama/souheilbenslama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,17 +23,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Languages and Tools:
+
+## Languages and Tools:
 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" height="40" style="vertical-align:top; margin:4px">
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/nestjs.svg" alt="nestjs" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://github.com/wadhah101/wadhah101/blob/master/icons/java.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
- 
+<img src="icons/nestjs.svg" alt="nestjs" width="48" height="48" />
+<img src="icons/python.svg" alt="python" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/java.svg" alt="java" width="48" height="48" />
+
+<img src="icons/docker.svg" alt="docker" width="48" height="48" />
+<img src="icons/kubernetes-plain-wordmark.svg" alt="mysql" width="48" height="48" />
+<img src="icons/azure.svg" alt="azure" width="48" height="48" />
+<img src="icons/firebase-plain-wordmark.svg" alt="mysql" width="48" height="48" />
+<img src="icons/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" />
+<img src="icons/mysql.svg" alt="mysql" width="48" height="48" />
 
