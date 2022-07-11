@@ -1,4 +1,4 @@
-### Hi there, I'm Souheil Ben Slama  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm Souheil Ben Slama  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="10px">
 
 
 i'm souheil benslama and i am a software engineering student at INSAT . i have always been passionate about new technologies and i have a lot of intreset in the AI and DevOps field . 
