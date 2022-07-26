@@ -1,6 +1,6 @@
 ## Hi there, I'm Souheil Ben Slama 👋 
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;Data%20Science%20Enthusiast;DeVops%20Enthusiast;Always%20Learning&center=false&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;Data%20Science%20Enthusiast;DevOps%20Enthusiast;Always%20Learning&center=false&width=500&height=50"></a>
 
 ### I am a Software Engineering student at INSAT.  I have always been passionate about new technologies and open to new opportunities. 
 
