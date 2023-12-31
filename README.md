@@ -40,9 +40,4 @@
 
 
 <br />
-<details>
-  <summary> GitHub Stats</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souheilbenslama&show_icons=true&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
