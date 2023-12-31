@@ -7,8 +7,11 @@
 
 
 
-- 🔭 I’m currently working on a kubernetes Project
-- 🌱 I’m currently learning kubernetes and Go language 
+- 🔭 I’m currently working on a kubernetes cluster autoscaling Project
+- virtualization, container runtimes, kubernetes
+- distributed systems
+- I like Go , Python.
+- IAC: Terraform , Ansible
 - 📫 How to reach me:     <a align="center" href="https://www.linkedin.com/in/souheil-benslama-70732a1a5/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 
