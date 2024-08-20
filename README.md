@@ -1,20 +1,20 @@
-## Hi there, I'm Souheil Ben Slama 👋 
+## Hi there, I'm Souheil Ben Slama 👋
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Cloud+DevOps%20Enthusiast;Always%20Learning&center=false&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Platform+Engineer;DevOps+%26+Cloud+Technologies+Specialist;Always%20Learning&center=false&width=500&height=50"></a>
 
-### I am a Software Engineering student at INSAT.  I have always been passionate about new technologies and open to new opportunities. 
+### I'm a Platform Engineer with a strong foundation in Software Engineering, specializing in DevOps and Cloud Technologies. Passionate about building scalable and efficient infrastructure, I am always eager to learn and take on new challenges.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)
 
+- 🔭 I’m currently working on Kubernetes cluster autoscaling projects and cloud infrastructure automation.
+- 🛠️ Core skills: Kubernetes, Terraform, CI/CD pipelines, and cloud services (AWS, GCP).
+- 🧰 Other tools & technologies: Docker, Ansible, Go, Python.
+- 🖥️ Interests: Distributed systems, Infrastructure as Code (IaC), automation, and cloud-native technologies.
+- 🌱 Always learning: Exploring advanced Kubernetes networking, service mesh, and observability tools.
+- 📫 How to reach me:   
+  <a align="center" href="https://www.linkedin.com/in/souheil-benslama-70732a1a5/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-- 🔭 I’m currently working on a kubernetes cluster autoscaling Project
-- virtualization, container runtimes, kubernetes
-- distributed systems
-- I like Go , Python.
-- IAC: Terraform , Ansible
-- 📫 How to reach me:     <a align="center" href="https://www.linkedin.com/in/souheil-benslama-70732a1a5/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
 
 ## Languages and Tools:
 
