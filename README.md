@@ -23,9 +23,10 @@
 <img src="icons/prometheus.png" alt="Prometheus" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/grafana.png" alt="Grafana" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/ansible/ansible.png" alt="Ansible" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/aws/aws.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/docker.svg" alt="docker" width="48" height="48" />
-<img src="icons/kubernetes-plain-wordmark.svg" alt="mysql" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/aws/aws.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
+
+<img src="icons/go.png" alt="go" width="48" height="48" />
 <img src="icons/azure.svg" alt="azure" width="48" height="48" />
 <img src="icons/firebase-plain-wordmark.svg" alt="mysql" width="48" height="48" />
 <img src="icons/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" />
