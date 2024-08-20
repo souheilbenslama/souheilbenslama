@@ -19,7 +19,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="Kubernetes" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/terraform/terraform.png" alt="Terraform" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/terraform.png" alt="Terraform" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/prometheus.png" alt="Prometheus" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/grafana.png" alt="Grafana" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/ansible/ansible.png" alt="Ansible" height="40" style="vertical-align:top; margin:4px">
