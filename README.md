@@ -1,4 +1,5 @@
-## Hi there, I'm Souheil Ben Slama 👋                 ![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)
+## Hi there, I'm Souheil Ben Slama 👋 <span style="display: inline-block; width: 50px;"></span><span style="float: right;">![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)</span>
+
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Platform+Engineer;DevOps+%26+Cloud+Technologies+Specialist;Always%20Learning&center=false&width=500&height=50"></a>  
 
