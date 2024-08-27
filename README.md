@@ -1,7 +1,7 @@
 ## Hi there, I'm Souheil Ben Slama 👋 <span style="display: inline-block; width: 250px;"></span><span style="float: right;">![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)</span>
 
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Platform+Engineer;DevOps+%26+Cloud+Technologies+Specialist;Always%20Learning&center=false&width=500&height=50"></a>  
+<a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=Platform+Engineer;DevOps+%26+Cloud+Technologies+Specialist;Always%20Learning&center=false&width=500&height=50"></a>  
 
 ### I'm a Platform Engineer with a strong foundation in Software Engineering, specializing in DevOps and Cloud Technologies.
 
@@ -11,8 +11,7 @@
 - 🧰 Other tools & technologies: Docker, Ansible, Go, Python.
 - 🖥️ Interests: Distributed systems, Infrastructure as Code (IaC), automation, and cloud-native technologies.
 - 🌱 Always learning: Exploring advanced Kubernetes networking, service mesh, and observability tools.
-- 📫 How to reach me:   
-  <a align="center" href="https://www.linkedin.com/in/souheil-benslama-70732a1a5/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 📫 How to reach me:  <a align="center" href="https://www.linkedin.com/in/souheil-benslama-70732a1a5/"> SOUHEIL BEN SLAMA </a>
 
 
 ## Languages and Tools:
