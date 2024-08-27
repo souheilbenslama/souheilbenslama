@@ -2,12 +2,11 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Platform+Engineer;DevOps+%26+Cloud+Technologies+Specialist;Always%20Learning&center=false&width=500&height=50"></a>  
 
-### I'm a Platform Engineer with a strong foundation in Software Engineering, specializing in DevOps and Cloud Technologies. Passionate about building scalable and efficient infrastructure, I am always eager to learn and take on new challenges.
-
+### I'm a Platform Engineer with a strong foundation in Software Engineering, specializing in DevOps and Cloud Technologies.
 
 
 - 🔭 I’m currently working on Kubernetes cluster autoscaling projects and cloud infrastructure automation.
-- 🛠️ Core skills: Kubernetes, Terraform, CI/CD pipelines, and cloud services (AWS, GCP).
+- 🛠️ Core skills: Kubernetes, Terraform, CI/CD pipelines, and cloud services (AWS, AZURE, OVH).
 - 🧰 Other tools & technologies: Docker, Ansible, Go, Python.
 - 🖥️ Interests: Distributed systems, Infrastructure as Code (IaC), automation, and cloud-native technologies.
 - 🌱 Always learning: Exploring advanced Kubernetes networking, service mesh, and observability tools.
