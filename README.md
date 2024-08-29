@@ -11,6 +11,7 @@
 - 🌱 Always learning: Exploring advanced Kubernetes networking, service mesh, and observability tools.
 - 📫 How to reach me:  <a align="center" href="https://www.linkedin.com/in/souheil-benslama-70732a1a5/"> SOUHEIL BEN SLAMA </a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)
 
 ## Languages and Tools:
 
@@ -30,10 +31,6 @@
 <img src="icons/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" />
 
 </p>
-
-<span padding-left=500xp>![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)</span>
-
- 
 
 
 <br />
