@@ -32,7 +32,7 @@
 </p>
 
 <span align="right">
- <span style="margin-left: 100px; padding-left:100px">![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)</span> 
+![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)
 <span>
  
 
