@@ -31,9 +31,9 @@
 
 </p>
 
-<p align="right">
+<span align="right">
  <span style="margin-left: 100px; padding-left:100px">![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)</span> 
-</p>
+<span>
  
 
 
