@@ -31,7 +31,7 @@
 
 </p>
 
-<span align="right">![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)</span>
+<span align="left">![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)</span>
 
  
 
