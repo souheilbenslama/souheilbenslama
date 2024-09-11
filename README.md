@@ -1,7 +1,7 @@
 ## Hi there, I'm Souheil Ben Slama 👋
 <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=Platform+Engineer;DevOps+%26+Cloud+Technologies+Specialist;Always%20Learning&center=false&width=500&height=50"></a>  
 
-### I'm a Platform Engineer with a strong foundation in Software Engineering, specializing in DevOps and Cloud Technologies.
+### I'm a Software Engineer specializing in DevOps and Cloud Technologies.
 
 
 - 🔭 I’m currently working on Kubernetes cluster autoscaling projects and cloud infrastructure automation.
