@@ -8,12 +8,11 @@
 - 🛠️ Core skills: Kubernetes, Terraform, CI/CD pipelines, and cloud services (AWS, AZURE, OVH).
 - 🧰 Other tools & technologies: Docker, Ansible, Go, Python.
 - 🖥️ Interests: Distributed systems, Infrastructure as Code (IaC), automation, and cloud-native technologies.
-- 🌱 Always learning: Exploring advanced Kubernetes networking, service mesh, and observability tools.
 - 📫 How to reach me:  <a align="center" href="https://www.linkedin.com/in/souheil-benslama-70732a1a5/"> SOUHEIL BEN SLAMA </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)
 
-## Languages and Tools:
+## Recent Languages and Tools:
 
 <p align="center">
 <img src="icons/terraform.png" alt="Terraform" height="40" style="vertical-align:top; margin:4px">
