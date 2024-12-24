@@ -10,7 +10,6 @@
 - 🖥️ Interests: Distributed systems, Infrastructure as Code (IaC), automation, and cloud-native technologies.
 - 📫 How to reach me:  <a align="center" href="https://www.linkedin.com/in/souheil-benslama-70732a1a5/"> SOUHEIL BEN SLAMA </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=souheilbenslama&color=green)
 
 ## Recent Languages and Tools:
 
